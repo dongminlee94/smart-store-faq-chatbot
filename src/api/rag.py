@@ -15,7 +15,7 @@ class FAQRAG:
     """
     FAQ Retrieval-Augmented Generation (RAG).
 
-    This class integrates OpenAI's GPT models with a FAISS vector database to provide RAG capabilities.
+    This class integrates OpenAI's GPT models with a Faiss vector database to provide RAG capabilities.
     """
 
     def __init__(
