@@ -1,1 +1,1 @@
-# smart-store-faq-assistant
+# NAVER Smart Store FAQ Chatbot
